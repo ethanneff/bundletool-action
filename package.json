@@ -1,6 +1,6 @@
 {
   "name": "bundletool-action",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "This action will help you convert your aab to signed apk file.",
   "main": "index.js",
   "scripts": {
