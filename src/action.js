@@ -42,7 +42,7 @@ async function run() {
     const KEYSTORE_PASSWORD = core.getInput("keystorePassword");
     const KEYSTORE_ALIAS = core.getInput("keystoreAlias");
     const KEY_PASSWORD = core.getInput("keyPassword");
-    const BUNDLETOOL_VERSION = core.getInput("bundletoolVersion");
+    const BUNDLETOOL_VERSION = core.getInput("bundleToolVersion");
 
     const bundleToolPath = `${process.env.HOME}/bundletool`;
     const bundleToolFile = `${bundleToolPath}/bundletool.jar`;

@@ -1,6 +1,6 @@
 name: "BundleTool Action"
 description: "This action will help you convert your aab to signed apk file."
-author: "Mukesh Solanki"
+author: "Ethan Neff"
 branding:
   icon: "check-circle"
   color: "green"
@@ -21,7 +21,7 @@ inputs:
   keyPassword:
     description: "The password to the key"
     required: true
-  bundletoolVersion:
+  bundleToolVersion:
     description: "The version of bundletool to use"
     required: false
     default: "latest"

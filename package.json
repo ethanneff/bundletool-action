@@ -1,6 +1,6 @@
 {
   "name": "bundletool-action",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "This action will help you convert your aab to signed apk file.",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mukeshsolanki/bundletool-action.git"
+    "url": "git+https://github.com/ethanneff/bundletool-action.git"
   },
-  "author": "Mukesh Solanki",
+  "author": "Ethan Neff",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mukeshsolanki/bundletool-action/issues"
+    "url": "https://github.com/ethanneff/bundletool-action/issues"
   },
-  "homepage": "https://github.com/mukeshsolanki/bundletool-action#readme",
+  "homepage": "https://github.com/ethanneff/bundletool-action#readme",
   "dependencies": {
     "@actions/core": "^1.10.1",
     "@actions/exec": "^1.1.1",
