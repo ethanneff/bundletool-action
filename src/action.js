@@ -1,6 +1,6 @@
 const core = require("@actions/core");
 const exec = require("@actions/exec");
-const tc = require("@asetOutputctions/tool-cache");
+const tc = require("@actions/tool-cache");
 const io = require("@actions/io");
 const httpm = require("@actions/http-client");
 const fs = require("fs");
