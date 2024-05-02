@@ -1,4 +1,4 @@
-name: "BundleTool Action"
+name: "Aab to Apk"
 description: "This action will help you convert your aab to signed apk file."
 author: "Ethan Neff"
 branding:
